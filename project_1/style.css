@@ -1,0 +1,43 @@
+h1{
+    background-color: #d4d7f7;
+}
+
+li{
+    background-color: #e8e9f7;
+}
+
+img{
+    background-color: #e2ccac;
+}
+
+h1{
+    color: #63473e
+}
+
+h3{
+    color: #6b5f5b
+}
+
+h1{
+    font-family: papyrus;
+}
+
+h3{
+    font-family: monospace;
+}
+
+p{
+    font-family: cursive;
+}
+
+h3{
+    font-style: italic;
+}
+
+h3{
+    font-size: x-large;
+}
+
+p{
+    font-weight: 600;
+}
